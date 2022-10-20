@@ -29,6 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjain0721&show_icons=true&locale=en&layout=compact" alt="rishabhjain0721" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=rishabhjain0721&show_icons=true&locale=en" alt="rishabhjain0721" />
 </p>
 
